@@ -1,5 +1,6 @@
-/*
- * Public API Surface of enjn
- */
+// import * as enJn from './lib';
+// export { enJn };
 
-export * from './lib/enjn.module';
+// export * from './lib';
+export { enJn } from './lib';
+export { nJn } from './lib';

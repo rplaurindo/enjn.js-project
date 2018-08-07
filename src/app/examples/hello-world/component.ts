@@ -10,11 +10,8 @@ import {
     Validators,
     AbstractControl
 } from '@angular/forms';
-import { Router, ActivatedRoute } from '@angular/router';
-import { Subscription } from 'rxjs';
 
-// import * as Services from '../../../../services';
-
+// import { nJn } from 'enjn';
 
 @Component({
     selector: 'app-hello-world',
@@ -24,9 +21,7 @@ import { Subscription } from 'rxjs';
 export class HelloWorldComponent implements  OnInit {
 
     constructor(
-        private formBuilder: FormBuilder,
-        private route: ActivatedRoute,
-        private router: Router
+
     ) { }
 
     ngOnInit() {
