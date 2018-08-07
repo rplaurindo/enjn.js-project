@@ -17,7 +17,7 @@ import { Subscription } from 'rxjs';
 
 
 @Component({
-    selector: 'app-glpi-dashboard',
+    selector: 'app-hello-world',
     templateUrl: './template.html',
     styleUrls: ['./template.sass']
 })
