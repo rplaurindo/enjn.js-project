@@ -1,4 +1,3 @@
-// declare class enJn {
 export declare class enJn {
 
     // main.js
@@ -111,14 +110,6 @@ export declare class enJn {
 
 }
 
-// declare class nJn extends enJn {
 export declare class nJn extends enJn {
-
-}
-
-// export { enJn };
-// export { nJn };
-
-export declare module enJn {
 
 }
